@@ -1,0 +1,8 @@
+101|Aisha Rahman|0501234567|Block 3, Al Ain|Food|4|1
+102|Carlos Mendez|0502345678|Villa 12, Abu Dhabi|Medicine|2|2
+103|Priya Sharma|0503456789|Flat 5, Dubai|Clothing|6|1
+104|Omar Abdullah|0504567890|House 7, Sharjah|Books|3|3
+105|Li Wei|0505678901|Room 2, Ajman|Food|5|2
+106|Fatima Al Zaabi|0506789012|Street 9, Al Ain|Medicine|1|1
+108|test user|0509876543|Al Ain, UAE|Food|4|2
+123|aaa|1234567898|al ain|food|1|1

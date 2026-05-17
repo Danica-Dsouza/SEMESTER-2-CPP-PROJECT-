@@ -1,0 +1,7 @@
+301|Rice (5kg bag)|Food|45|10
+302|Cooking Oil (2L)|Food|30|5
+303|Paracetamol 500mg|Medicine|190|20
+304|Bandage Rolls|Medicine|80|15
+305|Winter Jackets|Clothing|25|5
+306|School Notebooks|Books|80|10
+501|food|food|3|2
